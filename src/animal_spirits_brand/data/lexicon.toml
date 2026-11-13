@@ -1,0 +1,212 @@
+# The Lexicon: one term per post. Definitions plain; sources are first statements or the work that named the idea.
+# object = a cabinet object drawn beside the entry.
+
+[[entry]]
+term = "animal spirits"
+pos = "n."
+text = "A spontaneous urge to action rather than inaction."
+source = "Keynes, The General Theory of Employment, Interest and Money, 1936, ch. 12"
+object = "dice"
+
+[[entry]]
+term = "ceteris paribus"
+pos = "adv."
+text = "Other things being equal. True of every model and of no economy."
+source = "Marshall, Principles of Economics, 1890"
+object = "globe"
+
+[[entry]]
+term = "the long run"
+pos = "n."
+text = "In the long run we are all dead."
+source = "Keynes, A Tract on Monetary Reform, 1923, ch. 3"
+object = "hourglass"
+
+[[entry]]
+term = "paradox of thrift"
+pos = "n."
+text = "When everyone tries to save more at once, income falls, and total saving may not rise."
+source = "Keynes, The General Theory, 1936, ch. 7; named in Samuelson, Economics, 1948"
+object = "coins"
+
+[[entry]]
+term = "beauty contest"
+pos = "n."
+text = "Choosing not what you think best, but what you think others will think best."
+source = "Keynes, The General Theory, 1936, ch. 12"
+object = "bowler"
+
+[[entry]]
+term = "liquidity trap"
+pos = "n."
+text = "When interest rates are near zero, extra money is held, not spent or lent."
+source = "Keynes, The General Theory, 1936, ch. 15; the name is D. H. Robertson's"
+object = "coins"
+
+[[entry]]
+term = "invisible hand"
+pos = "n."
+text = "Each seeking his own gain may promote an end that was no part of his intention."
+source = "Smith, The Wealth of Nations, 1776, book IV, ch. 2"
+object = "balance"
+
+[[entry]]
+term = "comparative advantage"
+pos = "n."
+text = "Both sides gain from trade even when one is better at making everything."
+source = "Ricardo, On the Principles of Political Economy and Taxation, 1817, ch. 7"
+object = "ship"
+
+[[entry]]
+term = "creative destruction"
+pos = "n."
+text = "New firms and methods replacing old ones: the essential fact about capitalism."
+source = "Schumpeter, Capitalism, Socialism and Democracy, 1942, ch. 7"
+object = "hourglass"
+
+[[entry]]
+term = "tâtonnement"
+pos = "n."
+text = "Groping: prices called, revised and called again until every market clears."
+source = "Walras, Éléments d'économie politique pure, 1874"
+object = "balance"
+
+[[entry]]
+term = "Pareto efficiency"
+pos = "n."
+text = "No one can be made better off without making someone worse off. Says nothing about fair."
+source = "Pareto, Manuale di economia politica, 1906"
+object = "balance"
+
+[[entry]]
+term = "Say's law"
+pos = "n."
+text = "Supply creates its own demand. Keynes's summary of it, and his target."
+source = "Say, Traité d'économie politique, 1803; Keynes, The General Theory, 1936, ch. 2"
+object = "ledger"
+
+[[entry]]
+term = "Gresham's law"
+pos = "n."
+text = "Bad money drives out good: people spend the debased coin and keep the sound one."
+source = "Named by Macleod, Elements of Political Economy, 1858"
+object = "coins"
+
+[[entry]]
+term = "Goodhart's law"
+pos = "n."
+text = "A regularity used for control tends to collapse once pressure is placed on it."
+source = "Goodhart, Problems of Monetary Management: the UK Experience, 1975"
+object = "ledger"
+
+[[entry]]
+term = "Lucas critique"
+pos = "n."
+text = "Relations fitted to past data shift when policy changes, because people respond to the policy."
+source = "Lucas, Econometric Policy Evaluation: A Critique, 1976"
+object = "globe"
+
+[[entry]]
+term = "moral hazard"
+pos = "n."
+text = "Insured against a loss, people take less care to avoid it."
+source = "Arrow, Uncertainty and the Welfare Economics of Medical Care, 1963"
+object = "dice"
+
+[[entry]]
+term = "market for lemons"
+pos = "n."
+text = "When buyers cannot tell good from bad, bad sellers stay and good ones leave."
+source = "Akerlof, The Market for 'Lemons', Quarterly Journal of Economics, 1970"
+object = "bowler"
+
+[[entry]]
+term = "tragedy of the commons"
+pos = "n."
+text = "A shared resource is overused because each user bears only part of the cost."
+source = "Lloyd, Two Lectures on the Checks to Population, 1833; Hardin, Science, 1968"
+object = "globe"
+
+[[entry]]
+term = "Jevons paradox"
+pos = "n."
+text = "Using coal more efficiently led to using more coal, not less."
+source = "Jevons, The Coal Question, 1865"
+object = "ship"
+
+[[entry]]
+term = "Engel's law"
+pos = "n."
+text = "As income rises, the share spent on food falls."
+source = "Engel, 1857"
+object = "ledger"
+
+[[entry]]
+term = "marginal utility"
+pos = "n."
+text = "What the last unit is worth to you, which is less than the first."
+source = "Jevons, Menger, 1871; Walras, 1874"
+object = "coins"
+
+[[entry]]
+term = "Phillips curve"
+pos = "n."
+text = "Lower unemployment came with faster wage growth, in Britain, 1861 to 1957."
+source = "Phillips, Economica, 1958"
+object = "ledger"
+
+[[entry]]
+term = "multiplier"
+pos = "n."
+text = "Spending becomes someone's income, part of which is spent again, and so on."
+source = "Kahn, The Relation of Home Investment to Unemployment, Economic Journal, 1931"
+object = "coins"
+
+[[entry]]
+term = "opportunity cost"
+pos = "n."
+text = "The price of a choice is the best thing you gave up for it."
+source = "Green, Pain-Cost and Opportunity-Cost, Quarterly Journal of Economics, 1894"
+object = "hourglass"
+
+[[entry]]
+term = "rent seeking"
+pos = "n."
+text = "Spending effort to capture existing wealth instead of making new wealth."
+source = "Tullock, 1967; named by Krueger, American Economic Review, 1974"
+object = "bowler"
+
+[[entry]]
+term = "Knightian uncertainty"
+pos = "n."
+text = "Risk has known odds. Uncertainty has none, and that is where profit comes from."
+source = "Knight, Risk, Uncertainty and Profit, 1921"
+object = "dice"
+
+[[entry]]
+term = "cost disease"
+pos = "n."
+text = "A string quartet needs four players, as it did in 1800, and must pay them today's wages."
+source = "Baumol and Bowen, Performing Arts: The Economic Dilemma, 1966"
+object = "hourglass"
+
+[[entry]]
+term = "Malthusian trap"
+pos = "n."
+text = "Any gain in output is eaten by a larger population, so living standards return to subsistence."
+source = "Malthus, An Essay on the Principle of Population, 1798"
+object = "globe"
+
+[[entry]]
+term = "conspicuous consumption"
+pos = "n."
+text = "Buying goods to be seen buying them."
+source = "Veblen, The Theory of the Leisure Class, 1899"
+object = "bowler"
+
+[[entry]]
+term = "Dutch disease"
+pos = "n."
+text = "A resource boom raises the currency and hurts every other export."
+source = "The Economist, 26 November 1977"
+object = "ship"

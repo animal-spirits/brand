@@ -1,0 +1,13 @@
+[colors]
+background = "#ECE8DE"
+foreground = "#161110"
+cursor_bg = "#C32B1F"
+cursor_fg = "#ECE8DE"
+cursor_border = "#C32B1F"
+selection_bg = "#E6D2C6"
+selection_fg = "#161110"
+ansi = ["#161110", "#A8241A", "#3C6E3A", "#7A5A08", "#3F5E96", "#7D4058", "#1F5F78", "#D5CFC2"]
+brights = ["#5A524C", "#A8241A", "#3C6E3A", "#7A5A08", "#3F5E96", "#7D4058", "#1F5F78", "#E1DCD0"]
+
+[metadata]
+name = "Animal Spirits Ledger Light"

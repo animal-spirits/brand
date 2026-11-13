@@ -1,0 +1,98 @@
+/* Animal Spirits Ledger tokens. Dark first: dark on :root, light under prefers-color-scheme and [data-theme="light"]. */
+:root {
+  --as-bg: #161110;
+  --as-surface: #221C19;
+  --as-surface-2: #2E2724;
+  --as-border: #463D38;
+  --as-text: #ECE6D8;
+  --as-text-muted: #A39A8E;
+  --as-accent: #C32B1F;
+  --as-on-accent: #161110;
+  --as-accent-text: #F27A66;
+  --as-selection: #3A2522;
+  --as-link: #8FBACB;
+  --as-info: #8FBACB;
+  --as-success: #A9C48A;
+  --as-warning: #D9B45E;
+  --as-error: #F27A66;
+  --as-chart: #A9B7E0;
+  --as-code-comment: #8C837A;
+  --as-code-keyword: #8FBACB;
+  --as-code-function: #A9B7E0;
+  --as-code-type: #D3A6B4;
+  --as-code-string: #A9C48A;
+  --as-code-number: #D9B45E;
+  --as-code-variable: #ECE6D8;
+  --as-code-punctuation: #A39A8E;
+  --as-code-invalid: #F27A66;
+  --as-font-display: 'Source Serif 4', Georgia, serif;
+  --as-font-text: 'IBM Plex Sans', system-ui, -apple-system, 'Segoe UI', sans-serif;
+  --as-font-mono: 'IBM Plex Mono', ui-monospace, Menlo, Consolas, monospace;
+  --as-size-xs: 0.8rem;
+  --as-size-sm: 0.875rem;
+  --as-size-base: 1rem;
+  --as-size-lg: 1.25rem;
+  --as-size-xl: 1.563rem;
+  --as-size-2xl: 1.953rem;
+  --as-size-3xl: 2.441rem;
+  --as-size-4xl: 3.052rem;
+  color-scheme: dark;
+}
+@media (prefers-color-scheme: light) {
+  :root:not([data-theme="dark"]) {
+    --as-bg: #ECE8DE;
+    --as-surface: #E1DCD0;
+    --as-surface-2: #D5CFC2;
+    --as-border: #BDB5A6;
+    --as-text: #161110;
+    --as-text-muted: #5A524C;
+    --as-accent: #C32B1F;
+    --as-on-accent: #161110;
+    --as-accent-text: #A8241A;
+    --as-selection: #E6D2C6;
+    --as-link: #1F5F78;
+    --as-info: #1F5F78;
+    --as-success: #3C6E3A;
+    --as-warning: #7A5A08;
+    --as-error: #A8241A;
+    --as-chart: #3F5E96;
+    --as-code-comment: #6A625A;
+    --as-code-keyword: #1F5F78;
+    --as-code-function: #3F5E96;
+    --as-code-type: #7D4058;
+    --as-code-string: #3C6E3A;
+    --as-code-number: #7A5A08;
+    --as-code-variable: #161110;
+    --as-code-punctuation: #5A524C;
+    --as-code-invalid: #A8241A;
+    color-scheme: light;
+  }
+}
+:root[data-theme="light"] {
+  --as-bg: #ECE8DE;
+  --as-surface: #E1DCD0;
+  --as-surface-2: #D5CFC2;
+  --as-border: #BDB5A6;
+  --as-text: #161110;
+  --as-text-muted: #5A524C;
+  --as-accent: #C32B1F;
+  --as-on-accent: #161110;
+  --as-accent-text: #A8241A;
+  --as-selection: #E6D2C6;
+  --as-link: #1F5F78;
+  --as-info: #1F5F78;
+  --as-success: #3C6E3A;
+  --as-warning: #7A5A08;
+  --as-error: #A8241A;
+  --as-chart: #3F5E96;
+  --as-code-comment: #6A625A;
+  --as-code-keyword: #1F5F78;
+  --as-code-function: #3F5E96;
+  --as-code-type: #7D4058;
+  --as-code-string: #3C6E3A;
+  --as-code-number: #7A5A08;
+  --as-code-variable: #161110;
+  --as-code-punctuation: #5A524C;
+  --as-code-invalid: #A8241A;
+  color-scheme: light;
+}

@@ -1,0 +1,27 @@
+{
+  "name": "animal-spirits-ledger",
+  "displayName": "Animal Spirits Ledger",
+  "description": "Animal Spirits' Ledger colours: press black, ledger paper, one red block.",
+  "version": "1.0.0",
+  "publisher": "animal-spirits",
+  "engines": {
+    "vscode": "^1.80.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Animal Spirits Ledger Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/animal-spirits-ledger-dark-color-theme.json"
+      },
+      {
+        "label": "Animal Spirits Ledger Light",
+        "uiTheme": "vs",
+        "path": "./themes/animal-spirits-ledger-light-color-theme.json"
+      }
+    ]
+  }
+}

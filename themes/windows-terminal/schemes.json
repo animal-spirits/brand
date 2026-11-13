@@ -1,0 +1,50 @@
+{
+  "schemes": [
+    {
+      "name": "Animal Spirits Ledger Dark",
+      "background": "#161110",
+      "foreground": "#ECE6D8",
+      "cursorColor": "#C32B1F",
+      "selectionBackground": "#3A2522",
+      "black": "#221C19",
+      "red": "#F27A66",
+      "green": "#A9C48A",
+      "yellow": "#D9B45E",
+      "blue": "#A9B7E0",
+      "purple": "#D3A6B4",
+      "cyan": "#8FBACB",
+      "white": "#C9C1B3",
+      "brightBlack": "#6A615A",
+      "brightRed": "#FF9A88",
+      "brightGreen": "#C2DBA5",
+      "brightYellow": "#EBCB7E",
+      "brightBlue": "#C3CEF0",
+      "brightPurple": "#E6C2CD",
+      "brightCyan": "#B0D2DF",
+      "brightWhite": "#ECE6D8"
+    },
+    {
+      "name": "Animal Spirits Ledger Light",
+      "background": "#ECE8DE",
+      "foreground": "#161110",
+      "cursorColor": "#C32B1F",
+      "selectionBackground": "#E6D2C6",
+      "black": "#161110",
+      "red": "#A8241A",
+      "green": "#3C6E3A",
+      "yellow": "#7A5A08",
+      "blue": "#3F5E96",
+      "purple": "#7D4058",
+      "cyan": "#1F5F78",
+      "white": "#D5CFC2",
+      "brightBlack": "#5A524C",
+      "brightRed": "#A8241A",
+      "brightGreen": "#3C6E3A",
+      "brightYellow": "#7A5A08",
+      "brightBlue": "#3F5E96",
+      "brightPurple": "#7D4058",
+      "brightCyan": "#1F5F78",
+      "brightWhite": "#E1DCD0"
+    }
+  ]
+}

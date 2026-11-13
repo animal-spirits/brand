@@ -1,0 +1,13 @@
+[colors]
+background = "#161110"
+foreground = "#ECE6D8"
+cursor_bg = "#C32B1F"
+cursor_fg = "#ECE6D8"
+cursor_border = "#C32B1F"
+selection_bg = "#3A2522"
+selection_fg = "#ECE6D8"
+ansi = ["#221C19", "#F27A66", "#A9C48A", "#D9B45E", "#A9B7E0", "#D3A6B4", "#8FBACB", "#C9C1B3"]
+brights = ["#6A615A", "#FF9A88", "#C2DBA5", "#EBCB7E", "#C3CEF0", "#E6C2CD", "#B0D2DF", "#ECE6D8"]
+
+[metadata]
+name = "Animal Spirits Ledger Dark"

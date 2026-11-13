@@ -1,0 +1,14 @@
+/* Devices: load after tokens.css. Footnotes are numbered in red squares; ledgers end on a double rule. */
+sup.as-fn { font: 500 .7em/1 var(--as-font-mono); background: var(--as-accent); color: var(--as-on-accent);
+  padding: .15em .35em; margin-left: .1em; vertical-align: .45em; }
+aside.as-note { border-left: 2px solid var(--as-text); padding-left: 1em; font: 400 .875rem/1.55 var(--as-font-text);
+  color: var(--as-text-muted); }
+table.as-ledger { border-collapse: collapse; width: 100%; font: .8125rem var(--as-font-mono); font-variant-numeric: tabular-nums; }
+table.as-ledger th { text-align: left; font-weight: 400; color: var(--as-text-muted); }
+table.as-ledger td, table.as-ledger th { padding: .45em .6em; border-bottom: 1px solid var(--as-border); }
+table.as-ledger td:not(:first-child) { text-align: right; }
+table.as-ledger tbody tr:first-child td { border-top: 2px solid var(--as-text); }
+table.as-ledger tfoot td { border-top: 1px solid var(--as-text); border-bottom: 3px double var(--as-text); }
+.as-utility { background: var(--as-bg) url(../patterns/utility-dark.svg) center / cover; }
+:root[data-theme="light"] .as-utility { background-image: url(../patterns/utility-light.svg); }
+@media (prefers-color-scheme: light) { :root:not([data-theme="dark"]) .as-utility { background-image: url(../patterns/utility-light.svg); } }
